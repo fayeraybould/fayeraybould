@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/103493067/170534119-7b9a5485-92d9-4dc6-9866-108415c3c07a.png)
 
 <!--
 **fayeraybould/fayeraybould** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
